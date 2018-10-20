@@ -1,0 +1,4 @@
+name: new-site
+recipe: lamp
+config:
+  webroot: .

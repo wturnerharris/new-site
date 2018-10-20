@@ -1,0 +1,37 @@
+header, nav, section, article, aside, footer { border: 1px solid black; }
+article, aside {
+  font-size: 18px;
+}
+article { 
+  display: inline-block;
+  width: 69%;
+}
+#Aside-1 {
+  color: blue;
+}
+aside {
+  display: inline-block;
+  width: 30%;
+  color: red;
+}
+.aside {
+  color: green;
+}
+h1 { 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 48px;
+  text-transform: uppercase;
+}
+#MainArticle {
+  font-size: 12px; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+.section {
+  border-color: green;
+}
+.small-text {
+  font-size: 12px; 
+}
+.big-text {
+  font-size: 48px;
+}
